@@ -1,0 +1,5 @@
+amplpy
+pandas
+numpy
+matplotlib
+notebook
